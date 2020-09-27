@@ -34,7 +34,7 @@ category:
 
 
 ## github/gitlab
-github和gitlab是两大基于git的代码托管服务，其中gitlab是开源的，我们可以自己部署属于自己的gitlab,域名是 gitlab.free4inno.com
+github和gitlab是两大基于git的代码托管服务，其中gitlab是开源的，我们可以自己部署属于自己的gitlab
 
 ### 工作流
 - 功能分支

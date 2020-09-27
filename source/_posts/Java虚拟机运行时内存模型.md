@@ -13,7 +13,7 @@ category:
 <a name="407os5qi6nrv7kpt5n6emn3j0s">java虚拟机运行时内存</a>
 </h1>
 <div align="center" class="globalOverview">
-<img src="/img/java%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%BF%90%E8%A1%8C%E6%97%B6%E5%86%85%E5%AD%98.png"></div>
+<img src="/img/java虚拟机运行时内存.png"></div>
 
 <!-- more -->
 
@@ -24,7 +24,7 @@ category:
 <a name="1nfkogcbgifho8451cssouolj1">虚拟机栈</a>
 </h2>
 <div class="overview">
-<img src="/img/%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%A0%88 2.jpg"></div>
+<img src="/img/虚拟机栈 2.jpg"></div>
 <h3 class="topic">
 <a name="7v8phq556po1su30es98oif8s0">&nbsp;局部变量表</a>
 </h3>
@@ -44,12 +44,12 @@ category:
 <a name="7o7ktgujjooqd8m6pkc3anet3g">Java堆</a>
 </h2>
 <div class="overview">
-<img src="/img/Java%E5%A0%86 2.jpg"></div>
+<img src="/img/Java堆 2.jpg"></div>
 <h3 class="topic">
 <a name="396fhu2q4pig7ehmca8hd1eld0">&nbsp;新生代</a>
 </h3>
 <div class="overview">
-<img src="/img/%E6%96%B0%E7%94%9F%E4%BB%A3 2.jpg"></div>
+<img src="/img/新生代.jpg"></div>
 <h3 class="topic">
 <a name="1e8oe6nkjm8j5le9vre2ie7kf0">&nbsp;&nbsp;Eden</a>
 </h3>
@@ -69,7 +69,7 @@ category:
 <a name="7md98oqslraoairt3sru65bpf2">方法区</a>
 </h2>
 <div class="overview">
-<img src="/img/%E6%96%B9%E6%B3%95%E5%8C%BA 2.jpg"></div>
+<img src="/img/方法区 2.jpg"></div>
 <h3 class="topic">
 <a name="34d572fiff1i0mrqprepkm1ot8">&nbsp;类信息</a>
 </h3>
@@ -86,5 +86,4 @@ category:
 <a name="6j1h6ahc13oqpp5akm8dnqtb01">&nbsp;运行时常量池</a>
 </h3>
 </body>
-</html>
 

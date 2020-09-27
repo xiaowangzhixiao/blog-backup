@@ -12,13 +12,13 @@ subnav:
   # rss: "#"
   # zhihu: "#"
   #qq: "#"
-  #weixin: "#"
+  #weixin: "xiaowangzhixiao"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  mail: "mailto:xiaowangzhixiao@gmail.com"
+  mail: "mailto:wangzhibupt@foxmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -38,7 +38,7 @@ excerpt_link: more
 # 文章卡片右下角常驻链接，不需要请设置为false
 show_all_link: '展开全文'
 # 数学公式
-mathjax: false
+mathjax: true
 # 是否在新窗口打开链接
 open_in_new: false
 
@@ -129,4 +129,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: BUPT在读学生<br>午后的田野，放肆的奔跑<br><br>很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: BUPT在读学生<br>在人类的智慧面前，我只是一个小学生<br>
