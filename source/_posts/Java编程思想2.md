@@ -4,12 +4,11 @@ toc: true
 comments: true
 date: 2019-02-25 10:38:49
 tags:
-  - Java
-  - 控制流
-category:
-  - 编程
   - 读书笔记
   - Java编程思想
+category:
+  - 编程
+  - Java
 ---
 
 Java使用了C的所有流程控制语句，所以本文主要对Java中与C语法不同的地方进行介绍。

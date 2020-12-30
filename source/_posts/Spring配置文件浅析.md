@@ -6,7 +6,7 @@ tags:
 - XML
 category:
 - 编程
-- java
+- Java
 ---
 
 Spring配置文件是用于指导Spring工程进行Bean的生产、依赖关系注入及Bean实例分发的“图纸”

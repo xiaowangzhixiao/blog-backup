@@ -7,7 +7,7 @@ tags:
 - 大数据
 category:
 - 编程
-- 大数据
+- Kafka
 ---
 
 注：本文基于[kafka官网](http://kafka.apache.org)，为学习笔记，或类似官网翻译，边翻译边学习，印象更加深刻

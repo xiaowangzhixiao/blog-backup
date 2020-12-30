@@ -3,12 +3,11 @@ title: Java编程思想 - 对象导论
 toc: true
 comments: true
 tags:
-  - Java
-  - 面向对象
-category:
-  - 编程
   - 读书笔记
   - Java编程思想
+category:
+  - 编程
+  - Java
 date: 2019-01-22 11:33:40
 ---
 

@@ -4,12 +4,11 @@ toc: true
 comments: true
 date: 2020-01-26 20:47:57
 tags:
-- redis
-- 开源项目
-category:
-- 编程
 - 读书笔记
 - redis实战
+category:
+- 编程
+- redis
 ---
 
 在Windows系统的Ubuntu 18子系统中采用源码方式安装redis和python客户端

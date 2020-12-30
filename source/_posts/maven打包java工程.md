@@ -5,7 +5,7 @@ tags:
 - maven
 category:
 - 编程
-- java
+- Java
 ---
 
 使用maven管理java工程，maven的生命周期中有一个重要的package阶段，若是Java Web项目，在pom文件中将知名打包为war包，而若是java工程，则一般打包为jar包，但是如果直接执行maven的package操作时，会只将项目代码打包为jar，而不会带着依赖，单个jar包无法跑起来，下面就介绍两种使用maven打包依赖的方式。

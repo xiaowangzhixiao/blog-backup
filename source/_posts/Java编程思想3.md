@@ -4,12 +4,11 @@ toc: true
 comments: true
 date: 2019-02-26 15:32:58
 tags:
-  - Java
-  - 初始化
-category:
-  - 编程
   - 读书笔记
   - Java编程思想
+category:
+  - 编程
+  - Java
 ---
 
 本文对Java编程思想第五章初始化与清理中对类成员初始化的几种方式进行整理总结。

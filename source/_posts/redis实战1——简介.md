@@ -4,12 +4,11 @@ toc: true
 comments: true
 date: 2020-01-26 19:27:55
 tags:
-- redis
-- 开源项目
-category:
-- 编程
 - 读书笔记
 - redis实战
+category:
+- 编程
+- redis
 ---
 
 ## 简介
